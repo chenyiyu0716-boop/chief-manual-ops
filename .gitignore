@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.sqlite*
+*.db
+*.pem
+*.key
+credentials*
+secrets*
+private/
+evidence/raw/
